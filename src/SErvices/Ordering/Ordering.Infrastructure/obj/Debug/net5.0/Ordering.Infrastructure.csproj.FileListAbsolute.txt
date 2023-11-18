@@ -1,0 +1,17 @@
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.deps.json
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\ref\Ordering.Infrastructure.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.pdb
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.pdb
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CopyComplete
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\ref\Ordering.Infrastructure.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.pdb

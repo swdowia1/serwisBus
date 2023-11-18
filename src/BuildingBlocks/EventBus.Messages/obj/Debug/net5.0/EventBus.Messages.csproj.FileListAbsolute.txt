@@ -1,0 +1,11 @@
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\ref\EventBus.Messages.dll
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
+C:\dyskD\projekt\Solution1\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb

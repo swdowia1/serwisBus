@@ -1,0 +1,15 @@
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\bin\Debug\net5.0\ref\Ordering.Application.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.AssemblyReference.cache
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CopyComplete
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+C:\dyskD\projekt\Solution1\src\SErvices\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb
